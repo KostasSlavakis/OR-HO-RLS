@@ -8,7 +8,7 @@ K. Slavakis and S. Banerjee, "Robust hierarchical-optimization RLS against spars
 
 ## Usage
 
-Run the file: RunMe.m
+Run the file: RunMe.jl
 
 ## Citation
 
