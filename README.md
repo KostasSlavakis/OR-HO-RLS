@@ -31,8 +31,8 @@ The software is distributed under 3-Clause BSD License (https://opensource.org/l
 
 ### Contributors
 
-- Konstantinos Slavakis, University at Buffalo, The State University of New York (http://www.acsu.buffalo.edu/~kslavaki/index.html)
-- Sinjini Banerjee, Rutgers University.
+- Konstantinos Slavakis
+- Sinjini Banerjee
 
 ## Acknowledgements
 
